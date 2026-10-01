@@ -1,4 +1,4 @@
-#Headless Twilight Menu Theme
+# Headless Twilight Menu Theme
 
 Add this to your SD card in */_nds/TwiLightMenu/dsimenu*
 
